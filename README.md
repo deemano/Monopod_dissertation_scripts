@@ -1,2 +1,2 @@
-# Monopod_dissertation_scripts
+# Monopod Dissertation Scripts
 This repository contains the main scripts presented in my Monopod Dissertation research
